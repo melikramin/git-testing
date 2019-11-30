@@ -1,2 +1,2 @@
-## GIT stusy project
+## GIT study project
 This is temporary project and will be deleted soon. 
